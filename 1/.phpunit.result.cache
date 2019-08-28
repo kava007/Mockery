@@ -1,0 +1,1 @@
+C:37:"PHPUnit\Runner\DefaultTestResultCache":324:{a:2:{s:7:"defects";a:2:{s:67:"TemperatureTest::testGetsAverageTemperatureFromThreeServiceReadings";i:3;s:45:"TemperatureTest::test_get_current_temperature";i:4;}s:5:"times";a:2:{s:67:"TemperatureTest::testGetsAverageTemperatureFromThreeServiceReadings";d:0.022;s:45:"TemperatureTest::test_get_current_temperature";d:0.003;}}}
